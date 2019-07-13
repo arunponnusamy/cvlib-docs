@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to cvlib documentation
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For full documentation visit [cvlib.net](https://cvlib.net).
 
 ## Commands
 
