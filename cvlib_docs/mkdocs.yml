@@ -1,2 +1,6 @@
 site_name: cvlib documentation
 theme: readthedocs
+repo_url: https://github.com/arunponnusamy/cvlib
+
+nav:
+- Home: index.md
