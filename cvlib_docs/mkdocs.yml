@@ -1,6 +1,7 @@
-site_name: cvlib documentation
+site_name: cvlib
 theme: readthedocs
 repo_url: https://github.com/arunponnusamy/cvlib
 
 nav:
 - Home: index.md
+- Face Detection: face_detection.md
