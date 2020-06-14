@@ -64,6 +64,11 @@
     </ul>
 	    </li>
           
+            <li class="toctree-l1">
+		
+    <a class="" href="../gender_detection/">Gender Detection</a>
+	    </li>
+          
         </ul>
       </div>
       &nbsp;
@@ -105,7 +110,7 @@
 
 <p><strong>Arguments</strong></p>
 <ul>
-<li><strong>image:</strong> input image</li>
+<li><strong>image:</strong> input image (numpy array, BGR order, <code>dtype</code> - <code>uint8</code>)</li>
 <li><strong>threshold:</strong> confidence threshold to filter the detections (ranges from 0 to 1. default value 0.5)</li>
 <li><strong>enable_gpu:</strong> flag to use available GPU (if you have compiled OpenCV with CUDA from source)</li>
 </ul>
@@ -120,6 +125,8 @@
           <footer>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../gender_detection/" class="btn btn-neutral float-right" title="Gender Detection">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
         <a href=".." class="btn btn-neutral" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
@@ -152,6 +159,8 @@
       
         <span><a href=".." style="color: #fcfcfc;">&laquo; Previous</a></span>
       
+      
+        <span style="margin-left: 15px"><a href="../gender_detection/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>
