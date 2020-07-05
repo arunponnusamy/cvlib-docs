@@ -5,7 +5,7 @@ detect_face(image, threshold=0.5, enable_gpu=False)
 
 **Arguments**
 
-- **image:** input image
+- **image:** input image (numpy array, BGR order, `dtype` - `uint8`)
 - **threshold:** confidence threshold to filter the detections (ranges from 0 to 1. default value 0.5)
 - **enable_gpu:** flag to use available GPU (if you have compiled OpenCV with CUDA from source)
 

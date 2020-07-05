@@ -1,4 +1,4 @@
-# Welcome to cvlib documentation
+# cvlib
 
 **cvlib** is a simple, high level, easy to use, open source Computer Vision library for Python.
 

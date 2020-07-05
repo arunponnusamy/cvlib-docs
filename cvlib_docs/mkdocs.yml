@@ -5,3 +5,5 @@ repo_url: https://github.com/arunponnusamy/cvlib
 nav:
 - Home: index.md
 - Face Detection: face_detection.md
+- Gender Detection: gender_detection.md
+- Object Detection: object_detection.md
